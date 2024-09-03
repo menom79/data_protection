@@ -1,4 +1,4 @@
-# data_protection
+# Cybre Security
 
 ### Introduction to cyber security
 - Current situation and phenomena
